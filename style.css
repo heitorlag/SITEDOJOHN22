@@ -1,0 +1,43 @@
+body {
+    background-color: #CCD9D4;
+   text-align: justify;
+  margin: 0% ;
+}
+
+
+
+h5 {
+    color: #BF9169;
+}
+
+
+ .hidden-content {
+ display: none;
+ }
+      
+           
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+
+
+        /* Add this style to center the content */
+        body, html {
+            height: 100%;
+            margin: 0;
+            font-family: "Raleway", sans-serif;
+            color: #8ca38b;
+        }
+        .w3-content {
+            max-width: 1400px;
+            margin: auto;
+        }
+
+        h1 {
+            color: black
+        }
+       
+
+        footer {
+            background-color: #3C4C59;
+        }  
+
+        
